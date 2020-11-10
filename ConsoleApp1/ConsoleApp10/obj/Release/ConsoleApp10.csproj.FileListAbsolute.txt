@@ -1,0 +1,6 @@
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp10\bin\Release\ConsoleApp10.exe.config
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp10\bin\Release\ConsoleApp10.exe
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp10\bin\Release\ConsoleApp10.pdb
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp10\obj\Release\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp10\obj\Release\ConsoleApp10.exe
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp10\obj\Release\ConsoleApp10.pdb

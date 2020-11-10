@@ -1,0 +1,7 @@
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp13\bin\Release\ConsoleApp13.exe.config
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp13\bin\Release\ConsoleApp13.exe
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp13\bin\Release\ConsoleApp13.pdb
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp13\obj\Release\ConsoleApp13.csprojAssemblyReference.cache
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp13\obj\Release\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp13\obj\Release\ConsoleApp13.exe
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp13\obj\Release\ConsoleApp13.pdb

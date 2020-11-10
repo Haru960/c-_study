@@ -1,0 +1,7 @@
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp6\bin\Release\ConsoleApp6.exe.config
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp6\bin\Release\ConsoleApp6.exe
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp6\bin\Release\ConsoleApp6.pdb
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp6\obj\Release\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp6\obj\Release\ConsoleApp6.exe
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp6\obj\Release\ConsoleApp6.pdb
+C:\Users\moble\source\repos\ConsoleApp1\ConsoleApp6\obj\Release\ConsoleApp6.csprojAssemblyReference.cache
