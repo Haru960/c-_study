@@ -1,0 +1,9 @@
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb

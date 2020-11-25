@@ -1,0 +1,10 @@
+C:\Users\moble\source\repos\omok_a\omok_a\bin\Debug\omok_a.exe.config
+C:\Users\moble\source\repos\omok_a\omok_a\bin\Debug\omok_a.exe
+C:\Users\moble\source\repos\omok_a\omok_a\bin\Debug\omok_a.pdb
+C:\Users\moble\source\repos\omok_a\omok_a\obj\Debug\omok_a.csprojAssemblyReference.cache
+C:\Users\moble\source\repos\omok_a\omok_a\obj\Debug\omok_a.Form1.resources
+C:\Users\moble\source\repos\omok_a\omok_a\obj\Debug\omok_a.Properties.Resources.resources
+C:\Users\moble\source\repos\omok_a\omok_a\obj\Debug\omok_a.csproj.GenerateResource.cache
+C:\Users\moble\source\repos\omok_a\omok_a\obj\Debug\omok_a.csproj.CoreCompileInputs.cache
+C:\Users\moble\source\repos\omok_a\omok_a\obj\Debug\omok_a.exe
+C:\Users\moble\source\repos\omok_a\omok_a\obj\Debug\omok_a.pdb

@@ -1,0 +1,12 @@
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp13\bin\Debug\lg-UG\WindowsFormsApp13.resources.dll
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.lg-UG.resources
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp13\obj\Debug\lg-UG\WindowsFormsApp13.resources.dll
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+C:\Users\moble\source\repos\WindowsFormsApp11\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
